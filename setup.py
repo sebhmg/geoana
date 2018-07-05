@@ -39,7 +39,8 @@ setup(
         'scipy>=0.13',
         'matplotlib',
         'ipywidgets',
-        'properties[math]',
+        'properties',
+        'vectormath>=0.2.0'
         'jupyter',
         'utm'
     ],
