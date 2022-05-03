@@ -1,0 +1,6 @@
+geoana.em.static.ElectrostaticSphere.amplitude
+==============================================
+
+.. currentmodule:: geoana.em.static
+
+.. autoproperty:: ElectrostaticSphere.amplitude
