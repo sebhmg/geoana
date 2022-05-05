@@ -57,7 +57,6 @@ metadata = dict(
         'future',
         'numpy>=1.8',
         'scipy>=0.13',
-        'matplotlib',
         'properties',
         'vectormath',
         'utm',
